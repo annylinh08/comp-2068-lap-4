@@ -4,6 +4,8 @@ body {
   width: 100%;
 }
 
+.monospaced { font-family: 'Ubuntu Mono', monospaced ; }
+
 .home-cta {
   background: url('/images/background.jpg');
   background-size: cover;
